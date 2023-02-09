@@ -20,25 +20,23 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call/Whatsapp</LinkTitle>
-          <LinkItem href="tel:314-343-3432">+92 317-5869469</LinkItem>
+          <LinkItem href="tel:317-5869469">+92 317-5869469</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
+          <LinkItem href="mailto:abubakarjilani99@gamil.com">
             abubakarjilani99@gamil.com
           </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Skype</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
+          <LinkItem href="mailto:abubakarjilani99@gamil.com">
             abubakar JILANI
           </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Location</LinkTitle>
-          <LinkItem href="mailto:contact@jsmastery.com">
-            Islamabad, Pakistan
-          </LinkItem>
+          <LinkItem>Islamabad, Pakistan</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
